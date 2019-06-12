@@ -68,8 +68,6 @@
 
 ## Tests in this projects
 
-The tests which are performed in this project are:
-
     1. A test to make sure that the `allFeeds` variable has been defined.
 
     2. A test to make sure that the `allFeeds` variable is not empty.
